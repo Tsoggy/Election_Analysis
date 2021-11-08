@@ -25,7 +25,7 @@ The purpose of this election analysisis is to determine the name of the candidat
   - Diana DeGette received the greated number of votes and is the winning candidate in this election
 #### Text File
   - All of these results have been printed into the election_results.txt file:
-![election_analysis](analysis/election_results.txt)
+![election_results](Resources/election_results.png)
 
 ### Election Audit Summary
 As you can see, the script in this election audit was very efficient in how it provided the results. This script can be modified for use in other elections. Please read on to learn how this script may be used:
