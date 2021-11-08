@@ -24,8 +24,8 @@ The purpose of this election analysisis is to determine the name of the candidat
     - Raymon Anthony Doane received 3.1% of the total votes (11,606)
   - Diana DeGette received the greated number of votes and is the winning candidate in this election
 #### Text File
-  - All of these results have been printed into the election_analysis.txt file:
-![election_analysis](analysis/election_analysis.txt)
+  - All of these results have been printed into the election_results.txt file:
+![election_analysis](analysis/election_results.txt)
 
 ### Election Audit Summary
 As you can see, the script in this election audit was very efficient in how it provided the results. This script can be modified for use in other elections. Please read on to learn how this script may be used:
