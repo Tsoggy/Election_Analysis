@@ -1,6 +1,5 @@
 # Election Analysis
 ## Challenge 3: Python Module
-#### Susan Tsoglin
 
 ### Overview of the Election Audit
 #### Purpose
