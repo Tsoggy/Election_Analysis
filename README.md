@@ -28,6 +28,6 @@ The purpose of this election analysisis is to determine the name of the candidat
 As you can see, the script in this election audit was very efficient in how it provided the results. This script can be modified for use in other elections. Please read on to learn how this script may be used:
 1. First, without any modification, this script can be suitable to produce results for any number of counties and candidates.
 2. In the instance of a national election, this script can be modified to read out the votes by state rather than county. To do this, the script variables can change to read "state" rather than "county" as well as in the output, as so:
-![county_to_state](Resources/county_to_state.png)
+![county_to_state](Resources/county_to_state1.png)
 3. This script may also be modified to figure out the number of votes cast per county (or other territory) for each candidate. *In all honesty, I cannot figure out how I would accomplish this, but all of the data is there.
 
